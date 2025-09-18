@@ -6,3 +6,5 @@
 This is where you can find and use scripts created by AK Society for Roblox.
 
 **I am not responsible for any account bans or terminations; you are responsible for your own risks.**
+
+Here is the directory you can f ind my scripts at - https://github.com/VAMPMANE/AK-Society-Scripts/tree/main/Scripts
