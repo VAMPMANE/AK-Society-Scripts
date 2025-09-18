@@ -1,3 +1,3 @@
 # AK-Society-Scripts
 
-[![Discord](https://img.shields.io/discord/000000000000000000?label=Join%20the%20Community)](https://discord.gg/xqu8w935nZ)
+[![Discord](https://img.shields.io/badge/Discord-Join%20our%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/xqu8w935nZ)
